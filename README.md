@@ -1,2 +1,5 @@
 # flutter_orientation_demo
-flutter demo for orientation change 
+
+A Flutter demo for orientation change.
+
+
